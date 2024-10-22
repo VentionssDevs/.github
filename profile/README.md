@@ -1,13 +1,12 @@
 ## Welcome to the Ventionss company 👋
 
-<img align="right" src="./ventionteam/5.jpg" alt="Metrics" height="200">
-<img align="right" src="./ventionteam/4.jpg" alt="Metrics" height="200">
-<img align="right" src="./ventionteam/3.jpg" alt="Metrics" height="200">
-<img align="right" src="./ventionteam/2.jpg" alt="Metrics" height="200">
-<img align="right" src="./ventionteam/6.jpg" alt="Metrics" width="280" height="200">
+<img align="center" src="./ventionteam/5.jpg" alt="Metrics" height="300">
+<img align="center" src="./ventionteam/3.jpg" alt="Metrics" height="300">
+<img align="center" src="./ventionteam/4.jpg" alt="Metrics" height="220">
+<img align="center" src="./ventionteam/2.jpg" alt="Metrics" height="220">
+<img align="center" src="./ventionteam/6.jpg" alt="Metrics" width="280" height="220">
 
 
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 ## About Us
 <img align="right" src="./github-metrics.svg" alt="Metrics" width="400">
@@ -23,8 +22,8 @@ With a team of experienced professionals, Ventionss is dedicated to delivering h
 <br/>
 
 Ventionss prides itself on its collaborative approach, working closely with clients to understand their unique challenges and develop innovative strategies that align with their business goals. By fostering a culture of creativity and continuous improvement, Ventionss is committed to helping organizations navigate the complexities of the digital landscape and achieve sustainable success.
-<br/><br/><br/>
-<img align="center" src="./ventionteam/9.png" alt="Metrics" height="220">
+<br/><br/>
+<img align="center" src="./ventionteam/9.png" alt="Metrics" height="160">
 
 
 
