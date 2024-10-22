@@ -16,7 +16,7 @@
 is an innovative IT company based in New York, US, specializing in cutting-edge software solutions and digital transformation services.
 <br/>
 
-Founded in 2023, Ventionss aims to empower businesses by leveraging advanced technologies such as artificial intelligence, machine learning, and cloud computing.
+Founded in 2016, Ventionss aims to empower businesses by leveraging advanced technologies such as artificial intelligence, machine learning, and cloud computing.
 <br/>
 
 The company focuses on providing tailored solutions that enhance operational efficiency, improve customer engagement, and drive growth for its clients across various industries. 
