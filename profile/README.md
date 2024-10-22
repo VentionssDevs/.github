@@ -1,12 +1,13 @@
 ## Welcome to the Ventionss company 👋
 
 <img align="center" src="./ventionteam/5.jpg" alt="Metrics" height="300">
-<img align="center" src="./ventionteam/3.jpg" alt="Metrics" height="300">
-<img align="center" src="./ventionteam/4.jpg" alt="Metrics" height="220">
-<img align="center" src="./ventionteam/2.jpg" alt="Metrics" height="220">
-<img align="center" src="./ventionteam/6.jpg" alt="Metrics" width="280" height="220">
+<br/><br/>
+<!-- <img align="center" src="./ventionteam/3.jpg" alt="Metrics" height="300">
+<img align="center" src="./ventionteam/4.jpg" alt="Metrics" height="200"> -->
+<img align="right" src="./ventionteam/2.jpg" alt="Metrics" height="200">
+<!-- <img align="center" src="./ventionteam/6.jpg" alt="Metrics" width="280" height="200"> -->
 
-
+<br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 ## About Us
 <img align="right" src="./github-metrics.svg" alt="Metrics" width="400">
